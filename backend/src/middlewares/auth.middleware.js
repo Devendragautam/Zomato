@@ -54,6 +54,7 @@ async function authCustomerMiddleware(req, res, next) {
       }
          
 }
+
 module.exports = {
     authFoodPartnermiddleware ,
     authCustomerMiddleware
